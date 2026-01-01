@@ -65,7 +65,7 @@
 
 ### 安装步骤
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 点击 [安装脚本](https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81) 跳转至 Greasy Fork
+2. 点击 [安装脚本]() 跳转至123云盘
 3. 点击安装按钮完成安装
 
 ### 使用方法
